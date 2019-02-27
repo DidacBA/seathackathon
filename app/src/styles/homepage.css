@@ -1,0 +1,14 @@
+.buttons-container {
+  width: 100%;
+  position: fixed;
+  margin-block-end: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: grey;
+}
+
+.button-main {
+  padding: 1.9rem;
+  font-size: 1.5rem;
+}

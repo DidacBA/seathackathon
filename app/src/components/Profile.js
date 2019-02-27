@@ -10,7 +10,7 @@ export default class Profile extends Component {
   componentDidMount() {
     // Call to our server (that we do not have)
     this.setState({
-      username: 'Donald Trump',
+      username: 'Didac',
       cashBalance: 10,
     })
   }
